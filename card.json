@@ -417,7 +417,187 @@
             "grade": "3star",
             "inv": "TXT",
             "code": "`TXHK_3`"
-        }            
+        }     
+    ],
+    "IVGE_1": [
+        {
+            "name": "**1✦ IVE Gaeul**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "IVE",
+            "code": "`IVGE_1`"
+        }       
+    ],
+    "IVAY_1": [
+        {
+            "name": "**1✦ IVE An Yujin**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "IVE",
+            "code": "`IVAY_1`"
+        } 
+    ],
+    "IVRE_1": [
+        {
+            "name": "**1✦ IVE Rei**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "IVE",
+            "code": "`IVRE_1`"
+        } 
+    ],
+    "IVJW_1": [
+        {
+            "name": "**1✦ IVE Jang Wonyoung**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "IVE",
+            "code": "`IVJW_1`"
+        }  
+    ],
+    "IVLZ_1": [
+        {
+            "name": "**1✦ IVE Liz**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "IVE",
+            "code": "`IVLZ_1`"
+        } 
+    ],
+    "IVLS_1": [
+        {
+            "name": "**1✦ IVE Leeseo**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "IVE",
+            "code": "`IVLS_1`"
+        }    
+    ],
+    "IVGE_2": [
+        {
+            "name": "**2✦ IVE Gaeul**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "IVE",
+            "code": "`IVGE_2`"
+        }           
+    ],
+    "IVAY_2": [
+        {
+            "name": "**2✦ IVE An Yujin**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "IVE",
+            "code": "`IVAY_2`"
+        } 
+    ],
+    "IVRE_2": [
+        {
+            "name": "**2✦ IVE Rei**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "IVE",
+            "code": "`IVRE_2`"
+        }  
+    ],
+    "IVJW_2": [
+        {
+            "name": "**2✦ IVE Jang Wonyoung**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "IVE",
+            "code": "`IVJW_2`"
+        }  
+    ],
+    "IVLZ_2": [
+        {
+            "name": "**2✦ IVE Liz**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "IVE",
+            "code": "`IVLZ_2`"
+        }   
+    ],
+    "IVLS_2": [
+        {
+            "name": "**2✦ IVE Leeseo**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "IVE",
+            "code": "`IVLS_2`"
+        }    
+    ],
+    "IVGE_3": [
+        {
+            "name": "**3✦ IVE Gaeul**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "IVE",
+            "code": "`IVGE_3`"
+        }
+    ],
+    "IVAY_3": [
+        {
+            "name": "**3✦ IVE An Yujin**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "IVE",
+            "code": "`IVAY_3`"
+        }  
+    ],
+    "IVRE_3": [
+        {
+            "name": "**3✦ IVE Rei**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "IVE",
+            "code": "`IVRE_3`"
+        }   
+    ],
+    "IVJW_3": [
+        {
+            "name": "**3✦ IVE Jang Wonyoung**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "IVE",
+            "code": "`IVJW_3`"
+        } 
+    ],
+    "IVLZ_3": [
+        {
+            "name": "**3✦ IVE Liz**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "IVE",
+            "code": "`IVLZ_3`"
+        }  
+    ],
+    "IVLS_3": [
+        {
+            "name": "**3✦ IVE Leeseo**",
+            "image": "https://media.discordapp.net/attachments/1123244674350596138/1123254518449197187/Untitled349_20230627220850.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "IVE",
+            "code": "`IVLS_3`"
+        }    
         ]
                              }
              
