@@ -267,10 +267,161 @@
             "grade": "3star",
             "inv": "CIX",
             "code": "`CXHS_3`"
-        }           
+        }    
+    ],
+    "TXYJ_1": [
+        {
+            "name": "**1✦ Tomorrow X Together Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TXT",
+            "code": "`TXYJ_1`"
+        }   
+    ],
+    "TXSB_1": [
+        {
+            "name": "**1✦ Tomorrow X Together Soobin**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TXT",
+            "code": "`TXSB_1`"
+        }
+    ],
+    "TXBG_1": [
+        {
+            "name": "**1✦ Tomorrow X Together Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TXT",
+            "code": "`TXBG_1`"
+        }
+    ],
+    "TXTH_1": [
+        {
+            "name": "**1✦ Tomorrow X Together Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TXT",
+            "code": "`TXTH_1`"
+        }     
+    ],
+    "TXHK_1": [
+        {
+            "name": "**1✦ Tomorrow X Together Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TXT",
+            "code": "`TXHK_1`"
+        }  
+    ],
+    "TXYJ_2": [
+        {
+            "name": "**2✦ Tomorrow X Together Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TXT",
+            "code": "`TXYJ_2`"
+        }      
+    ],
+    "TXSB_2": [
+        {
+            "name": "**2✦ Tomorrow X Together Soobin**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TXT",
+            "code": "`TXSB_2`"
+        }
+    ],
+    "TXBG_2": [
+        {
+            "name": "**2✦ Tomorrow X Together Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TXT",
+            "code": "`TXBG_2`"
+        }
+    ],
+    "TXTH_2": [
+        {
+            "name": "**2✦ Tomorrow X Together Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TXT",
+            "code": "`TXTH_2`"
+        } 
+    ],
+    "TXHK_2": [
+        {
+            "name": "**2✦ Tomorrow X Together Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TXT",
+            "code": "`TXHK_2`"
+        } 
+    ],
+    "TXYJ_3": [
+        {
+            "name": "**3✦ Tomorrow X Together Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TXT",
+            "code": "`TXYJ_3`"
+        }         
+    ],
+    "TXSB_3": [
+        {
+            "name": "**3✦ Tomorrow X Together Soobin**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TXT",
+            "code": "`TXSB_3`"
+        }   
+    ],
+    "TXBG_3": [
+        {
+            "name": "**3✦ Tomorrow X Together Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TXT",
+            "code": "`TXBG_3`"
+        }   
+    ],
+    "TXTH_3": [
+        {
+            "name": "**3✦ Tomorrow X Together Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TXT",
+            "code": "`TXTH_3`"
+        }  
+    ],
+    "TXHK_3": [
+        {
+            "name": "**3✦ Tomorrow X Together Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1123212974451064883/1123218544415477770/CIX_20230627194804.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TXT",
+            "code": "`TXHK_3`"
+        }            
         ]
                              }
-            
+             
+    
 
             
     
