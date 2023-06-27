@@ -1,1 +1,126 @@
+{
+    "AEKR_1": [
+        {
+            "name": "**1✦ Aespa Karina**",
+            "image": "https://media.discordapp.net/attachments/1123213003014283274/1123215375383924736/Untitled341_20230627191437.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Aespa",
+            "code": "`AEKR_1`"
+        }           
+    ],
+    "AEGS_1": [
+        {
+            "name": "**1✦ Aespa Giselle**",
+            "image": "https://media.discordapp.net/attachments/1123213003014283274/1123215375715282985/Untitled341_20230627191357.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Aespa",
+            "code": "`AEGS_1`"
+        }     
+    ],
+    "AEWT_1": [
+        {
+            "name": "**1✦ Aespa Winter**",
+            "image": "https://media.discordapp.net/attachments/1123213003014283274/1123215376050835466/Untitled341_20230627191544.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Aespa",
+            "code": "`AEWT_1`"
+        } 
+    ],
+    "AENN_1": [
+        {
+            "name": "**1✦ Aespa Ningning**",
+            "image": "https://media.discordapp.net/attachments/1123213003014283274/1123215376407334992/Untitled341_20230627191506.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Aespa",
+            "code": "`AENN_1`"
+        } 
+    ],
+    "AEKR_2": [
+        {
+            "name": "**2✦ Aespa Karina**",
+            "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218659754655814/Untitled341_20230627194707.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Aespa",
+            "code": "`AEKR_2`"
+        }      
+    ],
+    "AEGS_2": [
+        {
+            "name": "**2✦ Aespa Giselle**",
+            "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218660140523521/Untitled341_20230627194805.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Aespa",
+            "code": "`AEGS_2`"
+        }       
+    ],
+    "AEWT_2": [
+        {
+            "name": "**2✦ Aespa Winter**",
+            "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218660585123860/Untitled341_20230627194839.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Aespa",
+            "code": "`AEWT_2`"
+        }
+    ],
+    "AENN_2": [
+        {
+            "name": "**2✦ Aespa Ningning**",
+            "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218660966809630/Untitled341_20230627194915.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Aespa",
+            "code": "`AENN_2`"
+        }
+    ],
+    "AEKR_3": [
+        {
+            "name": "**3✦ Aespa Karina**",
+            "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218739459014656/Untitled341_20230627193353.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Aespa",
+            "code": "`AEKR_2`"
+        }        
+    ],
+    "AEGS_3": [
+        {
+            "name": "**3✦ Aespa Giselle**",
+            "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218739932975164/Untitled341_20230627193403.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Aespa",
+            "code": "`AEGS_2`"
+        }     
+    ],
+    "AEWT_3": [
+        {
+            "name": "**3✦ Aespa Winter**",
+            "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218740469841940/Untitled341_20230627193433.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Aespa",
+            "code": "`AEWT_2`"
+        }
+    ],
+    "AENN_3": [
+        {
+            "name": "**3✦ Aespa Ningning**",
+            "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218740469841940/Untitled341_20230627193433.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Aespa",
+            "code": "`AENN_2`"
+        }        
+        ]
+                             }
+            
 
+            
+    
