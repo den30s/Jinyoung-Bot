@@ -43,7 +43,7 @@
         {
             "name": "**2✦ Aespa Karina**",
             "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218659754655814/Untitled341_20230627194707.png",
-            "theme": "card1",
+            "theme": "card2",
             "grade": "2star",
             "inv": "Aespa",
             "code": "`AEKR_2`"
@@ -53,7 +53,7 @@
         {
             "name": "**2✦ Aespa Giselle**",
             "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218660140523521/Untitled341_20230627194805.png",
-            "theme": "card1",
+            "theme": "card2",
             "grade": "2star",
             "inv": "Aespa",
             "code": "`AEGS_2`"
@@ -63,7 +63,7 @@
         {
             "name": "**2✦ Aespa Winter**",
             "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218660585123860/Untitled341_20230627194839.png",
-            "theme": "card1",
+            "theme": "card2",
             "grade": "2star",
             "inv": "Aespa",
             "code": "`AEWT_2`"
@@ -73,7 +73,7 @@
         {
             "name": "**2✦ Aespa Ningning**",
             "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218660966809630/Untitled341_20230627194915.png",
-            "theme": "card1",
+            "theme": "card2",
             "grade": "2star",
             "inv": "Aespa",
             "code": "`AENN_2`"
@@ -83,7 +83,7 @@
         {
             "name": "**3✦ Aespa Karina**",
             "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218739459014656/Untitled341_20230627193353.png",
-            "theme": "card1",
+            "theme": "card3",
             "grade": "3star",
             "inv": "Aespa",
             "code": "`AEKR_3`"
@@ -93,7 +93,7 @@
         {
             "name": "**3✦ Aespa Giselle**",
             "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218739932975164/Untitled341_20230627193403.png",
-            "theme": "card1",
+            "theme": "card3",
             "grade": "3star",
             "inv": "Aespa",
             "code": "`AEGS_3`"
@@ -103,7 +103,7 @@
         {
             "name": "**3✦ Aespa Winter**",
             "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218740985733200/Untitled341_20230627193501.png",
-            "theme": "card1",
+            "theme": "card3",
             "grade": "3star",
             "inv": "Aespa",
             "code": "`AEWT_3`"
@@ -113,7 +113,7 @@
         {
             "name": "**3✦ Aespa Ningning**",
             "image": "https://media.discordapp.net/attachments/1123213003014283274/1123218740469841940/Untitled341_20230627193433.png",
-            "theme": "card1",
+            "theme": "card3",
             "grade": "3star",
             "inv": "Aespa",
             "code": "`AENN_3`"
