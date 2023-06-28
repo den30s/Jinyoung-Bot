@@ -1,1 +1,22 @@
-
+{
+    "ENBM_WP": [
+        {
+            "name": "**Enhypen Bite Me Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117289123787575386/Untitled295_20230611110719.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ENBM_WP`"
+        }
+    
+    ],
+    "C458_WP": [
+        {
+            "name": "**CIX 458 Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328600052531220/Untitled295_20230611134053.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`C458_WP`"
+        }    
+    ]
+}
+    
