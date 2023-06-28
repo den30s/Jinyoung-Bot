@@ -598,6 +598,156 @@
             "inv": "IVE",
             "code": "`IVLS_3`"
         }    
+    ],
+    "NJMJ_1": [
+        {
+            "name": "**✦ NewJeans Minji**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416750344634368/Newjeans_20230628085104.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NewJeans",
+            "code": "`NJMJ_1`"
+        }         
+    ],
+    "NJHN_1": [
+        {
+            "name": "**✦ NewJeans Hanni**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416750696972379/Newjeans_20230628085022.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NewJeans",
+            "code": "`NJHN_1`"
+        }  
+    ],
+    "NJDN_1": [
+        {
+            "name": "**✦ NewJeans Danielle**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751082840174/Newjeans_20230628084946.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NewJeans",
+            "code": "`NJDN_1`"
+        }  
+    ],
+    "NJHR_1": [
+        {
+            "name": "**✦ NewJeans Haerin**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NewJeans",
+            "code": "`NJHR_1`"
+        } 
+    ],
+    "NJHI_1": [
+        {
+            "name": "**✦ NewJeans Hyein**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751783297086/Newjeans_20230628084834.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NewJeans",
+            "code": "`NJHI_1`"
+        } 
+    ],
+    "NJMJ_2": [
+        {
+            "name": "**✦✦ NewJeans Minji**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123420260796747776/Newjeans_20230628090512.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NewJeans",
+            "code": "`NJMJ_2`"
+        }              
+    ],
+    "NJHN_2": [
+        {
+            "name": "**✦✦ NewJeans Hanni**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123420261228744785/Newjeans_20230628090553.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NewJeans",
+            "code": "`NJHN_2`"
+        } 
+    ],
+    "NJDN_2": [
+        {
+            "name": "**✦✦ NewJeans Danielle**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123420261790797844/Newjeans_20230628090626.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NewJeans",
+            "code": "`NJDN_2`"
+        }
+    ],
+    "NJHR_2": [
+        {
+            "name": "**✦✦ NewJeans Haerin**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123420262461866104/Newjeans_20230628090733.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NewJeans",
+            "code": "`NJHR_2`"
+        } 
+    ],
+    "NJHI_2": [
+        {
+            "name": "**✦✦ NewJeans Hyein**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123420263032295514/Newjeans_20230628090755.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NewJeans",
+            "code": "`NJHI_2`"
+        } 
+    ],
+    "NJMJ_3": [
+        {
+            "name": "**✦✦✦ NewJeans Minji**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123421927457968218/Newjeans_20230628091630.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NewJeans",
+            "code": "`NJMJ_3`"
+        }
+    ],
+    "NJHN_3": [
+        {
+            "name": "**✦✦✦ NewJeans Hanni**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123421927902556220/Newjeans_20230628091604.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NewJeans",
+            "code": "`NJHN_3`"
+        }  
+    ],
+    "NJDN_3": [
+        {
+            "name": "**✦✦✦ NewJeans Danielle**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123421928351342653/Newjeans_20230628091520.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NewJeans",
+            "code": "`NJDN_3`"
+        }
+    ],
+    "NJHR_3": [
+        {
+            "name": "**✦✦✦ NewJeans Haerin**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123421928712065184/Newjeans_20230628091411.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NewJeans",
+            "code": "`NJHR_3`"
+        } 
+    ],
+    "NJHI_3": [
+        {
+            "name": "**✦✦✦ NewJeans Hyein**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123421929295065088/Newjeans_20230628091347.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NewJeans",
+            "code": "`NJHI_3`"
+        }   
         ]
                              }
              
