@@ -1647,7 +1647,267 @@
             "grade": "3star",
             "inv": "ENHYPEN",
             "code": "`ENNK_3`"
+        }
+    ],
+    "F9SR_1": [
+        {
+            "name": "**✦ fromis_9 Saerom**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "fromis_9",
+            "code": "`F9SR_1`"
+        }        
+    ],
+    "F9HY_1": [
+        {
+            "name": "**✦ fromis_9 Hayoung**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "fromis_9",
+            "code": "`F9HY_1`"
         }    
+    ],
+    "F9JW_1": [
+        {
+            "name": "**✦ fromis_9 Jiwon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "fromis_9",
+            "code": "`F9JW_1`"
+        } 
+    ],
+    "F9JS_1": [
+        {
+            "name": "**✦ fromis_9 Jisun**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "fromis_9",
+            "code": "`F9JS_1`"
+        }
+    ],
+    "F9SY_1": [
+        {
+            "name": "**✦ fromis_9 Seoyeon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "fromis_9",
+            "code": "`F9SY_1`"
+        }   
+    ],
+    "F9CY_1": [
+        {
+            "name": "**✦ fromis_9 Chaeyoung**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "fromis_9",
+            "code": "`F9CY_1`"
+        }
+    ],
+    "F9NG_1": [
+        {
+            "name": "**✦ fromis_9 Nagyung**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "fromis_9",
+            "code": "`F9NG_1`"
+        }
+    ],
+    "F9JH_1": [
+        {
+            "name": "**✦ fromis_9 Jiheon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "fromis_9",
+            "code": "`F9JH_1`"
+        }
+    ],
+    "F9SR_2": [
+        {
+            "name": "**✦✦ fromis_9 Saerom**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "fromis_9",
+            "code": "`F9SR_2`"
+        }        
+    ],
+    "F9HY_2": [
+        {
+            "name": "**✦✦ fromis_9 Hayoung**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "fromis_9",
+            "code": "`F9HY_2`"
+        }
+    ],
+    "F9GR_2": [
+        {
+            "name": "**✦✦ fromis_9 Gyuri**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "fromis_9",
+            "code": "`F9GR_2`"
+        }
+    ],
+    "F9JW_2": [
+        {
+            "name": "**✦✦ fromis_9 Jiwon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "fromis_9",
+            "code": "`F9JW_2`"
+        }  
+    ],
+    "F9JS_2": [
+        {
+            "name": "**✦✦ fromis_9 Jisun**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "fromis_9",
+            "code": "`F9JS_2`"
+        } 
+    ],
+    "F9SY_2": [
+        {
+            "name": "**✦✦ fromis_9 Seoyeon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "fromis_9",
+            "code": "`F9SY_2`"
+        }
+    ],
+    "F9CY_2": [
+        {
+            "name": "**✦✦ fromis_9 Chaeyoung**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "fromis_9",
+            "code": "`F9CY_2`"
+        }
+    ],
+    "F9NG_2": [
+        {
+            "name": "**✦✦ fromis_9 Nagyung**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "fromis_9",
+            "code": "`F9NG_2`"
+        } 
+    ],
+    "F9JH_2": [
+        {
+            "name": "**✦✦ fromis_9 Jiheon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "fromis_9",
+            "code": "`F9JH_2`"
+        } 
+    ],
+    "F9SR_3": [
+        {
+            "name": "**✦✦✦ fromis_9 Saerom**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "fromis_9",
+            "code": "`F9SR_3`"
+        }            
+    ],
+    "F9HY_3": [
+        {
+            "name": "**✦✦✦ fromis_9 Hayoung**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "fromis_9",
+            "code": "`F9HY_3`"
+        } 
+    ],
+    "F9GR_3": [
+        {
+            "name": "**✦✦✦ fromis_9 Gyuri**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "fromis_9",
+            "code": "`F9GR_3`"
+        }
+    ],
+    "F9JW_3": [
+        {
+            "name": "**✦✦✦ fromis_9 Jiwon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "fromis_9",
+            "code": "`F9JW_3`"
+        }
+    ],
+    "F9JS_3": [
+        {
+            "name": "**✦✦✦ fromis_9 Jisun**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "fromis_9",
+            "code": "`F9JS_3`"
+        }
+    ],
+    "F9SY_3": [
+        {
+            "name": "**✦✦✦ fromis_9 Seoyeon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "fromis_9",
+            "code": "`F9SY_3`"
+        }
+    ],
+    "F9CY_3": [
+        {
+            "name": "**✦✦✦ fromis_9 Chaeyoung**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "fromis_9",
+            "code": "`F9CY_3`"
+        }   
+    ],
+    "F9NG_3": [
+        {
+            "name": "**✦✦✦ fromis_9 Nagyung**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "fromis_9",
+            "code": "`F9NG_3`"
+        } 
+    ],
+    "F9JH_3": [
+        {
+            "name": "**✦✦✦ fromis_9 Jiheon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "fromis_9",
+            "code": "`F9JH_3`"
+        }                
         ]
                              }
              
