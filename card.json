@@ -1437,7 +1437,217 @@
             "grade": "3star",
             "inv": "TWICE",
             "code": "`TWTY_3`"
-        }               
+        }  
+    ],
+    "ENHS_1": [
+        {
+            "name": "**✦ ENHYPEN Heeseung**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272552589033602/Untitled341_20230627224216.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ENHYPEN",
+            "code": "`ENHS_1`"
+        }         
+    ],
+    "ENJA_1": [
+        {
+            "name": "**✦ ENHYPEN Jay**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272552962347028/Untitled341_20230627224638.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ENHYPEN",
+            "code": "`ENJA_1`"
+        } 
+    ],
+    "ENJK_1": [
+        {
+            "name": "**✦ ENHYPEN Jake**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272553360789504/Untitled341_20230627231851.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ENHYPEN",
+            "code": "`ENJK_1`"
+        }
+    ],
+    "ENSH_1": [
+        {
+            "name": "**✦ ENHYPEN Sunghoon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272553717301289/Untitled341_20230627225257.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ENHYPEN",
+            "code": "`ENSH_1`"
+        }  
+    ],
+    "ENSN_1": [
+        {
+            "name": "**✦ ENHYPEN Sunoo**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554115780608/Untitled341_20230627225916.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ENHYPEN",
+            "code": "`ENSN_1`"
+        }
+    ],
+    "ENJW_1": [
+        {
+            "name": "**✦ ENHYPEN Jungwon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554459697273/Untitled341_20230627230307.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ENHYPEN",
+            "code": "`ENJW_1`"
+        }
+    ],
+    "ENNK_1": [
+        {
+            "name": "**✦ ENHYPEN Ni-ki**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123272554820403280/Untitled341_20230627232312.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ENHYPEN",
+            "code": "`ENNK_1`"
+        }
+    ],
+    "ENHS_2": [
+        {
+            "name": "**✦✦ ENHYPEN Heeseung**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123290069185343538/Untitled341_20230628001944.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ENHYPEN",
+            "code": "`ENHS_2`"
+        }             
+    ],
+    "ENJA_2": [
+        {
+            "name": "**✦✦ ENHYPEN Jay**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123290069550239896/Untitled341_20230628001229.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ENHYPEN",
+            "code": "`ENJA_2`"
+        } 
+    ],
+    "ENJK_2": [
+        {
+            "name": "**✦✦ ENHYPEN Jake**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123290069910945812/Untitled341_20230628002727.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ENHYPEN",
+            "code": "`ENJK_2`"
+        } 
+    ],
+    "ENSH_2": [
+        {
+            "name": "**✦✦ ENHYPEN Sunghoon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123290070301028486/Untitled341_20230628001634.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ENHYPEN",
+            "code": "`ENSH_2`"
+        }
+    ],
+    "ENSN_2": [
+        {
+            "name": "**✦✦ ENHYPEN Sunoo**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123290070628176014/Untitled341_20230628002545.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ENHYPEN",
+            "code": "`ENSN_2`"
+        }
+    ],
+    "ENJW_2": [
+        {
+            "name": "**✦✦ ENHYPEN Jungwon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123290070988881971/Untitled341_20230628003037.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ENHYPEN",
+            "code": "`ENJW_2`"
+        } 
+    ],
+    "ENNK_2": [
+        {
+            "name": "**✦✦ ENHYPEN Ni-ki**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123290071408324618/Untitled341_20230628002236.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ENHYPEN",
+            "code": "`ENNK_2`"
+        } 
+    ],
+    "ENHS_3": [
+        {
+            "name": "**✦✦✦ ENHYPEN Heeseung**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123575155780759612/Untitled342_20230628191623.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ENHYPEN",
+            "code": "`ENHS_3`"
+        }
+    ],
+    "ENJA_3": [
+        {
+            "name": "**✦✦✦ ENHYPEN Jay**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123575156158238831/Untitled342_20230628191156.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ENHYPEN",
+            "code": "`ENJA_3`"
+        }
+    ],
+    "ENJK_3": [
+        {
+            "name": "**✦✦✦ ENHYPEN Jake**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123575156657377381/Untitled342_20230628191335.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ENHYPEN",
+            "code": "`ENJK_3`"
+        } 
+    ],
+    "ENSH_3": [
+        {
+            "name": "**✦✦✦ ENHYPEN Sunghoon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123575157101965342/Untitled342_20230628191501.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ENHYPEN",
+            "code": "`ENSH_3`"
+        }
+    ],
+    "ENSN_3": [
+        {
+            "name": "**✦✦✦ ENHYPEN Sunoo**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123575157466861649/Untitled342_20230628191905.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ENHYPEN",
+            "code": "`ENSN_3`"
+        }
+    ],
+    "ENJW_3": [
+        {
+            "name": "**✦✦✦ ENHYPEN Jungwon**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123575158200873031/Untitled342_20230628192438.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ENHYPEN",
+            "code": "`ENJW_3`"
+        } 
+    ],
+    "ENNK_3": [
+        {
+            "name": "**✦✦✦ ENHYPEN Ni-ki**",
+            "image": "https://media.discordapp.net/attachments/1123268424764756113/1123575158200873031/Untitled342_20230628192438.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ENHYPEN",
+            "code": "`ENNK_3`"
+        }    
         ]
                              }
              
