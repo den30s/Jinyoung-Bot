@@ -1167,7 +1167,277 @@
             "grade": "3star",
             "inv": "MONSTA X",
             "code": "`MXIM_3`"
+        }
+    ],
+    "TWNY_1": [
+        {
+            "name": "**✦ TWICE Nayeon**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390285263679568/Untitled341_20230628031243.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TWICE",
+            "code": "`TWNY_1`"
+        }     
+    ],
+    "TWJY_1": [
+        {
+            "name": "**✦ TWICE Jeongyeon**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390285611802624/Untitled341_20230628070303.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TWICE",
+            "code": "`TWJY_1`"
+        }
+    ],
+    "TWMM_1": [
+        {
+            "name": "**✦ TWICE Momo**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390285871857704/Untitled341_20230628031926.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TWICE",
+            "code": "`TWMM_1`"
+        } 
+    ],
+    "TWSN_1": [
+        {
+            "name": "**✦ TWICE Sana**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390286127706263/Untitled341_20230628033950.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TWICE",
+            "code": "`TWSN_1`"
+        }  
+    ],
+    "TWJH_1": [
+        {
+            "name": "**✦ TWICE Jihyo**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390286450663495/Untitled341_20230628032443.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TWICE",
+            "code": "`TWJH_1`"
+        }
+    ],
+    "TWMN_1": [
+        {
+            "name": "**✦ TWICE Mina**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390286740078672/Untitled341_20230628033104.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TWICE",
+            "code": "`TWMN_1`"
+        } 
+    ],
+    "TWDH_1": [
+        {
+            "name": "**✦ TWICE Dahyun**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390287054647417/Untitled341_20230628033218.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TWICE",
+            "code": "`TWDH_1`"
+        }
+    ],
+    "TWCY_1": [
+        {
+            "name": "**✦ TWICE Chaeyoung**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390287381799012/Untitled341_20230628070525.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TWICE",
+            "code": "`TWCY_1`"
+        }
+    ],
+    "TWTY_1": [
+        {
+            "name": "**✦ TWICE Tzuyu**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390287675408546/Untitled341_20230628033754.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TWICE",
+            "code": "`TWTY_1`"
+        }
+    ],
+    "TWNY_2": [
+        {
+            "name": "**✦✦ TWICE Nayeon**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390470828068946/Untitled341_20230628055006.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TWICE",
+            "code": "`TWNY_2`"
+        }        
+    ],
+    "TWJY_2": [
+        {
+            "name": "**✦✦ TWICE Jeongyeon**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390471134265385/Untitled341_20230628063618.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TWICE",
+            "code": "`TWJY_2`"
+        }
+    ],
+    "TWMM_2": [
+        {
+            "name": "**✦✦ TWICE Momo**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390471461404682/Untitled341_20230628054642.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TWICE",
+            "code": "`TWMM_2`"
+        }
+    ],
+    "TWSN_2": [
+        {
+            "name": "**✦✦ TWICE Sana**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390471792758874/Untitled341_20230628055407.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TWICE",
+            "code": "`TWSN_2`"
+        } 
+    ],
+    "TWJH_2": [
+        {
+            "name": "**✦✦ TWICE Jihyo**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390472111538216/Untitled341_20230628060048.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TWICE",
+            "code": "`TWJH_2`"
+        } 
+    ],
+    "TWMN_2": [
+        {
+            "name": "**✦✦ TWICE Mina**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390472505786579/Untitled341_20230628060334.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TWICE",
+            "code": "`TWMN_2`"
+        }
+    ],
+    "TWDH_2": [
+        {
+            "name": "**✦✦ TWICE Dahyun**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390472811974686/Untitled341_20230628060434.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TWICE",
+            "code": "`TWDH_2`"
+        }
+    ],
+    "TWCY_2": [
+        {
+            "name": "**✦✦ TWICE Chaeyoung**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390473206235146/Untitled341_20230628060713.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TWICE",
+            "code": "`TWCY_2`"
+        } 
+    ],
+    "TWTY_2": [
+        {
+            "name": "**✦✦ TWICE Tzuyu**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123390473575337984/Untitled341_20230628060825.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TWICE",
+            "code": "`TWTY_2`"
+        } 
+    ],
+    "TWNY_3": [
+        {
+            "name": "**✦✦✦ TWICE Nayeon**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123475682861776926/Untitled341_20230628122928.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TWICE",
+            "code": "`TWNY_3`"
         }           
+    ],
+    "TWJY_3": [
+        {
+            "name": "**✦✦✦ TWICE Jeongyeon**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123475683205730364/Untitled341_20230628123133.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TWICE",
+            "code": "`TWJY_3`"
+        }
+    ],
+    "TWMM_3": [
+        {
+            "name": "**✦✦✦ TWICE Momo**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123475683503521792/Untitled341_20230628123403.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TWICE",
+            "code": "`TWMM_3`"
+        }
+    ],
+    "TWSN_3": [
+        {
+            "name": "**✦✦✦ TWICE Sana**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123475683885207602/Untitled341_20230628122632.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TWICE",
+            "code": "`TWSN_3`"
+        }
+    ],
+    "TWJH_3": [
+        {
+            "name": "**✦✦✦ TWICE Jihyo**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123475684304633856/Untitled341_20230628124553.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TWICE",
+            "code": "`TWJH_3`"
+        }
+    ],
+    "TWMN_3": [
+        {
+            "name": "**✦✦✦ TWICE Mina**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123475684652744714/Untitled341_20230628124433.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TWICE",
+            "code": "`TWMN_3`"
+        }
+    ],
+    "TWDH_3": [
+        {
+            "name": "**✦✦✦ TWICE Dahyun**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123475685030252605/Untitled341_20230628122158.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TWICE",
+            "code": "`TWDH_3`"
+        }
+    ],
+    "TWCY_3": [
+        {
+            "name": "**✦✦✦ TWICE Chaeyoung**",
+            "image": "https://media.discordapp.net/attachments/1123280363163222016/1123475685374165042/Untitled341_20230628123036.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TWICE",
+            "code": "`TWCY_3`"
+        }
+    ],
+    "TWTY_3": [
+        {
+            "name": "**✦✦✦ TWICE Tzuyu**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535763427045426/MONSTA_X_20230628163647.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TWICE",
+            "code": "`TWTY_3`"
+        }               
         ]
                              }
              
