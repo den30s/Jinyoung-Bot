@@ -987,7 +987,187 @@
             "grade": "3star",
             "inv": "Ateez",
             "code": "`ATJH_3`"
-        }         
+        }     
+    ],
+    "MXSH_1": [
+        {
+            "name": "**✦ MONSTA X Shownu**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535585609531422/MONSTA_X_20230628164748.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "MONSTA X",
+            "code": "`MXSH_1`"
+        }
+    ],
+    "MXMH_1": [
+        {
+            "name": "**✦ MONSTA X Minhyuk**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535586016370740/MONSTA_X_20230628164627.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "MONSTA X",
+            "code": "`MXMH_1`"
+        } 
+    ],
+    "MXKH_1": [
+        {
+            "name": "**✦ MONSTA X Kihyun**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535586385477682/MONSTA_X_20230628164714.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "MONSTA X",
+            "code": "`MXKH_1`"
+        }  
+    ],
+    "MXHW_1": [
+        {
+            "name": "**✦ MONSTA X Hyungwon**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535586767155300/MONSTA_X_20230628164557.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "MONSTA X",
+            "code": "`MXHW_1`"
+        } 
+    ],
+    "MXJH_1": [
+        {
+            "name": "**✦ MONSTA X Joohoney**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535587203366912/MONSTA_X_20230628164530.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "MONSTA X",
+            "code": "`MXJH_1`"
+        }   
+    ],
+    "MXIM_1": [
+        {
+            "name": "**✦ MONSTA X I.M**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535587610210325/MONSTA_X_20230628164458.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "MONSTA X",
+            "code": "`MXIM_1`"
+        }   
+    ],
+    "MXSH_2": [
+        {
+            "name": "**✦✦ MONSTA X Shownu**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535669038436362/MONSTA_X_20230628161402.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "MONSTA X",
+            "code": "`MXSH_2`"
+        }   
+    ],
+    "MXMH_2": [
+        {
+            "name": "**✦✦ MONSTA X Minhyuk**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535669411721278/MONSTA_X_20230628161306.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "MONSTA X",
+            "code": "`MXMH_2`"
+        }       
+    ],
+    "MXKH_2": [
+        {
+            "name": "**✦✦ MONSTA X Kihyun**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535669759840356/MONSTA_X_20230628161335.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "MONSTA X",
+            "code": "`MXKH_2`"
+        }  
+    ],
+    "MXHW_2": [
+        {
+            "name": "**✦✦ MONSTA X Hyungwon**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535670107983923/MONSTA_X_20230628161221.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "MONSTA X",
+            "code": "`MXHW_2`"
+        }       
+    ],
+    "MXJH_2": [
+        {
+            "name": "**✦✦ MONSTA X Joohoney**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535670569349201/MONSTA_X_20230628161103.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "MONSTA X",
+            "code": "`MXJH_2`"
+        } 
+    ],
+    "MXIM_2": [
+        {
+            "name": "**✦✦ MONSTA X I.M**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535670925856788/MONSTA_X_20230628161140.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "MONSTA X",
+            "code": "`MXIM_2`"
+        }  
+    ],
+    "MXSH_3": [
+        {
+            "name": "**✦✦✦ MONSTA X Shownu**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535760172265512/MONSTA_X_20230628163408.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "MONSTA X",
+            "code": "`MXSH_3`"
+        }       
+    ],
+    "MXMH_3": [
+        {
+            "name": "**✦✦✦ MONSTA X Minhyuk**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535760818184192/MONSTA_X_20230628163433.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "MONSTA X",
+            "code": "`MXMH_3`"
+        }   
+    ],
+    "MXKH_3": [
+        {
+            "name": "**✦✦✦ MONSTA X Kihyun**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535761241817108/MONSTA_X_20230628163510.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "MONSTA X",
+            "code": "`MXKH_3`"
+        }   
+    ],
+    "MXHW_3": [
+        {
+            "name": "**✦✦✦ MONSTA X Hyungwon**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535762655289364/MONSTA_X_20230628163543.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "MONSTA X",
+            "code": "`MXHW_3`"
+        }  
+    ],
+    "MXJH_3": [
+        {
+            "name": "**✦✦✦ MONSTA X Joohoney**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535763045367868/MONSTA_X_20230628163619.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "MONSTA X",
+            "code": "`MXJH_3`"
+        }  
+    ],
+    "MXIM_3": [
+        {
+            "name": "**✦✦✦ MONSTA X I.M**",
+            "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535763427045426/MONSTA_X_20230628163647.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "MONSTA X",
+            "code": "`MXIM_3`"
+        }           
         ]
                              }
              
