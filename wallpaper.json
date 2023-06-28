@@ -1,8 +1,8 @@
 {
     "ENBM_WP": [
         {
-            "name": "**Enhypen Bite Me Wallpaper**",
-            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117289123787575386/Untitled295_20230611110719.png",
+            "name": "**Enhypen Basic Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454118086848513/1123457851176788019/Untitled295_20230628113536.png",
             "theme": "card1",
             "inv": "Wallpaper",
             "code": "`ENBM_WP`"
@@ -11,12 +11,75 @@
     ],
     "C458_WP": [
         {
-            "name": "**CIX 458 Wallpaper**",
+            "name": "**CIX Basic Wallpaper**",
             "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328600052531220/Untitled295_20230611134053.png",
             "theme": "card1",
             "inv": "Wallpaper",
             "code": "`C458_WP`"
         }    
+    ],
+    "ATGR_WP": [
+        {
+            "name": "**Ateez Basic Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454118086848513/1123457850816082050/Untitled295_20230628113605.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ATGR_WP`"
+        } 
+    ],
+    "NDBB_WP": [
+        {
+            "name": "**NCT Dream Basic Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454118086848513/1123457851566862468/Untitled295_20230628113447.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`NDBB_WP`"
+        }  
+    ],
+    "TXCR_WP": [
+        {
+            "name": "**Tomorrow X Together Basic Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454118086848513/1123457852070187129/Untitled295_20230628113428.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`TXCR_WP`"
+        } 
+    ],
+    "AEGS_WP": [
+        {
+            "name": "**Aespa Basic Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454118086848513/1123457813730033745/Untitled295_20230611134111.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`AEGS_WP`"
+        }  
+    ],
+    "IVIA_WP": [
+        {
+            "name": "**IVE Basic Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454118086848513/1123457814262726666/Untitled295_20230628113815.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`IVIA_WP`"
+        } 
+    ],
+    "NJOM_WP": [
+        {
+            "name": "**NewJeans Basic Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454118086848513/1123457814707318804/Untitled295_20230611134210.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`NJOM_WP`"
+        } 
+    ],
+    "TWSM_WP": [
+        {
+            "name": "**Twice Basic Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454118086848513/1123457815302897734/Untitled295_20230628113842.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`TWSM_WP`"
+        }        
     ]
 }
     
