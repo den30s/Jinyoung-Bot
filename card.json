@@ -989,14 +989,14 @@
             "code": "`ATJH_3`"
         }     
     ],
-    "MXSH_1": [
+    "MXSN_1": [
         {
             "name": "**✦ MONSTA X Shownu**",
             "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535585609531422/MONSTA_X_20230628164748.png",
             "theme": "card1",
             "grade": "1star",
             "inv": "MONSTA X",
-            "code": "`MXSH_1`"
+            "code": "`MXSN_1`"
         }
     ],
     "MXMH_1": [
@@ -1049,14 +1049,14 @@
             "code": "`MXIM_1`"
         }   
     ],
-    "MXSH_2": [
+    "MXSN_2": [
         {
             "name": "**✦✦ MONSTA X Shownu**",
             "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535669038436362/MONSTA_X_20230628161402.png",
             "theme": "card2",
             "grade": "2star",
             "inv": "MONSTA X",
-            "code": "`MXSH_2`"
+            "code": "`MXSN_2`"
         }   
     ],
     "MXMH_2": [
@@ -1109,14 +1109,14 @@
             "code": "`MXIM_2`"
         }  
     ],
-    "MXSH_3": [
+    "MXSN_3": [
         {
             "name": "**✦✦✦ MONSTA X Shownu**",
             "image": "https://media.discordapp.net/attachments/1123465541177331792/1123535760172265512/MONSTA_X_20230628163408.png",
             "theme": "card3",
             "grade": "3star",
             "inv": "MONSTA X",
-            "code": "`MXSH_3`"
+            "code": "`MXSN_3`"
         }       
     ],
     "MXMH_3": [
