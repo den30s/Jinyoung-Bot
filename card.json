@@ -748,6 +748,246 @@
             "inv": "NewJeans",
             "code": "`NJHI_3`"
         }   
+    ],
+    "ATSH_1": [
+        {
+            "name": "**✦ Ateez Seonghwa**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Ateez",
+            "code": "`ATSH_1`"
+        }              
+    ],
+    "ATHJ_1": [
+        {
+            "name": "**✦ Ateez Hongjoong**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Ateez",
+            "code": "`ATHJ_1`"
+        }     
+    ],
+    "ATYH_1": [
+        {
+            "name": "**✦ Ateez Yunho**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Ateez",
+            "code": "`ATYH_1`"
+        } 
+    ],
+    "ATYS_1": [
+        {
+            "name": "**✦ Ateez Yeosang**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Ateez",
+            "code": "`ATYS_1`"
+        } 
+    ],
+    "ATSN_1": [
+        {
+            "name": "**✦ Ateez San**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Ateez",
+            "code": "`ATSN_1`"
+        }  
+    ],
+    "ATMG_1": [
+        {
+            "name": "**✦ Ateez Mingi**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Ateez",
+            "code": "`ATMG_1`"
+        }  
+    ],
+    "ATWY_1": [
+        {
+            "name": "**✦ Ateez Wooyoung**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Ateez",
+            "code": "`ATWY_1`"
+        }       
+    ],
+    "ATJH_1": [
+        {
+            "name": "**✦ Ateez Jongho**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Ateez",
+            "code": "`ATJH_1`"
+        }  
+   ],
+    "ATSH_2": [
+        {
+            "name": "**✦✦ Ateez Seonghwa**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Ateez",
+            "code": "`ATSH_2`"
+        }
+    ],
+    "ATHJ_2": [
+        {
+            "name": "**✦✦ Ateez Hongjoong**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Ateez",
+            "code": "`ATHJ_2`"
+        } 
+    ],
+    "ATYH_2": [
+        {
+            "name": "**✦✦ Ateez Yunho**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Ateez",
+            "code": "`ATYH_2`"
+        }
+    ],
+    "ATYS_2": [
+        {
+            "name": "**✦✦ Ateez Yeosang**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Ateez",
+            "code": "`ATYS_2`"
+        }  
+    ],
+    "ATSN_2": [
+        {
+            "name": "**✦✦ Ateez San**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Ateez",
+            "code": "`ATSN_2`"
+        }  
+    ],
+    "ATMG_2": [
+        {
+            "name": "**✦✦ Ateez Mingi**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Ateez",
+            "code": "`ATMG_2`"
+        }   
+    ],
+    "ATWY_2": [
+        {
+            "name": "**✦✦ Ateez Wooyoung**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Ateez",
+            "code": "`ATWY_2`"
+        }  
+    ],
+    "ATJH_2": [
+        {
+            "name": "**✦✦ Ateez Jongho**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Ateez",
+            "code": "`ATJH_2`"
+        }  
+    ],
+    "ATSH_3": [
+        {
+            "name": "**✦✦✦ Ateez Seonghwa**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Ateez",
+            "code": "`ATSH_3`"
+        }     
+    ],
+    "ATHJ_3": [
+        {
+            "name": "**✦✦✦ Ateez Hongjoong**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Ateez",
+            "code": "`ATHJ_3`"
+        } 
+    ],
+    "ATYH_3": [
+        {
+            "name": "**✦✦✦ Ateez Yunho**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Ateez",
+            "code": "`ATYH_3`"
+        }  
+    ],
+    "ATYS_3": [
+        {
+            "name": "**✦✦✦ Ateez Yeosang**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Ateez",
+            "code": "`ATYS_3`"
+        }  
+    ],
+    "ATSN_3": [
+        {
+            "name": "**✦✦✦ Ateez San**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Ateez",
+            "code": "`ATSN_3`"
+        }
+    ],
+    "ATMG_3": [
+        {
+            "name": "**✦✦✦ Ateez Mingi**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Ateez",
+            "code": "`ATMG_3`"
+        }  
+    ],
+    "ATWY_3": [
+        {
+            "name": "**✦✦✦ Ateez Wooyoung**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Ateez",
+            "code": "`ATWY_3`"
+        }  
+    ],
+    "ATJH_3": [
+        {
+            "name": "**✦✦✦ Ateez Jongho**",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123416751456124988/Newjeans_20230628084918.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Ateez",
+            "code": "`ATJH_3`"
+        }         
         ]
                              }
              
