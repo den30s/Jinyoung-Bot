@@ -1907,7 +1907,157 @@
             "grade": "3star",
             "inv": "fromis_9",
             "code": "`F9JH_3`"
-        }                
+        } 
+    ],
+    "RVIR_1": [
+        {
+            "name": "**✦ Red Velvet Irene**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657772542722159/Untitled345_20230629002126.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Red Velvet",
+            "code": "`RVIR_1`"
+        }   
+    ],
+    "RVSG_1": [
+        {
+            "name": "**✦ Red Velvet Seulgi**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657772878274591/Untitled345_20230629002303.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Red Velvet",
+            "code": "`RVSG_1`"
+        } 
+    ],
+    "RVWD_1": [
+        {
+            "name": "**✦ Red Velvet Wendy**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657773293518950/Untitled345_20230629002018.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Red Velvet",
+            "code": "`RVWD_1`"
+        } 
+    ],
+    "RVJO_1": [
+        {
+            "name": "**✦ Red Velvet Joy**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657773725515796/Untitled345_20230629002151.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Red Velvet",
+            "code": "`RVJO_1`"
+        }
+    ],
+    "RVYR_1": [
+        {
+            "name": "**✦ Red Velvet Yeri**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657774098817066/Untitled345_20230629001938.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Red Velvet",
+            "code": "`RVYR_1`"
+        } 
+    ],
+    "RVIR_2": [
+        {
+            "name": "**✦✦ Red Velvet Irene**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657886778790019/Untitled345_20230629003055.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Red Velvet",
+            "code": "`RVIR_2`"
+        }       
+    ],
+    "RVSG_2": [
+        {
+            "name": "**✦✦ Red Velvet Seulgi**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657887240171610/Untitled345_20230629003027.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Red Velvet",
+            "code": "`RVSG_2`"
+        } 
+    ],
+    "RVWD_2": [
+        {
+            "name": "**✦✦ Red Velvet Wendy**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657887584112772/Untitled345_20230629002919.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Red Velvet",
+            "code": "`RVWD_2`"
+        }
+    ],
+    "RVJO_2": [
+        {
+            "name": "**✦✦ Red Velvet Joy**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657887995138218/Untitled345_20230629002948.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Red Velvet",
+            "code": "`RVJO_2`"
+        }
+   ],
+    "RVYR_2": [
+        {
+            "name": "**✦✦ Red Velvet Yeri**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657888292941874/Untitled345_20230629002825.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Red Velvet",
+            "code": "`RVYR_2`"
+        }
+    ],
+    "RVIR_3": [
+        {
+            "name": "**✦✦✦ Red Velvet Irene**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657959692578860/Untitled345_20230629005020.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Red Velvet",
+            "code": "`RVIR_3`"
+        }            
+    ],
+    "RVSG_3": [
+        {
+            "name": "**✦✦✦ Red Velvet Seulgi**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657960028131339/Untitled345_20230629005102.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Red Velvet",
+            "code": "`RVSG_3`"
+        } 
+    ],
+    "RVWD_3": [
+        {
+            "name": "**✦✦✦ Red Velvet Wendy**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657960510464081/Untitled345_20230629005129.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Red Velvet",
+            "code": "`RVWD_3`"
+        }
+    ],
+    "RVJO_3": [
+        {
+            "name": "**✦✦✦ Red Velvet Joy**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657960816660580/Untitled345_20230629005158.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Red Velvet",
+            "code": "`RVJO_3`"
+        }
+    ],
+    "RVYR_3": [
+        {
+            "name": "**✦✦✦ Red Velvet Yeri**",
+            "image": "https://media.discordapp.net/attachments/1123280101447041064/1123657961177358467/Untitled345_20230629005234.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Red Velvet",
+            "code": "`RVYR_3`"
+        }               
         ]
                              }
              
