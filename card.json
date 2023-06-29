@@ -2057,10 +2057,221 @@
             "grade": "3star",
             "inv": "Red Velvet",
             "code": "`RVYR_3`"
-        }               
+        }  
+    ],
+    "NDMA_1": [
+        {
+            "name": "**✦ NCT Dream Mark**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123294830836068444/Untitled341_20230628001610.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT Dream",
+            "code": "`NDMA_1`"
+        }         
+   ],
+    "NDRJ_1": [
+        {
+            "name": "**✦ NCT Dream Renjun**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123294831196782742/Untitled341_20230628004846.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT Dream",
+            "code": "`NDRJ_1`"
+        }
+    ],
+    "NDJN_1": [
+        {
+            "name": "**✦ NCT Dream Jeno**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123294831645569185/Untitled341_20230627223056.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT Dream",
+            "code": "`NDJN_1`"
+        } 
+    ],
+    "NDHC_1": [
+        {
+            "name": "**✦ NCT Dream Haechan**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123294832090169415/Untitled341_20230628003006.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT Dream",
+            "code": "`NDHC_1`"
+        }   
+    ],
+    "NDJM_1": [
+        {
+            "name": "**✦ NCT Dream Jaemin**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123294831645569185/Untitled341_20230627223056.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT Dream",
+            "code": "`NDJM_1`"
+        } 
+    ],
+    "NDCL_1": [
+        {
+            "name": "**✦ NCT Dream Chenle**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123294832929026120/Untitled341_20230628005013.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT Dream",
+            "code": "`NDCL_1`"
+        } 
+    ],
+    "NDJS_1": [
+        {
+            "name": "**✦ NCT Dream Jisung**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123294833293934792/Untitled341_20230628005110.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT Dream",
+            "code": "`NDJS_1`"
+        }
+    ],
+    "NDMA_2": [
+        {
+            "name": "**✦✦ NCT Dream Mark**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123299092748062820/Untitled341_20230627224915.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT Dream",
+            "code": "`NDMA_2`"
+        }   
+    ],
+    "NDRJ_2": [
+        {
+            "name": "**✦✦ NCT Dream Renjun**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123299093091975249/Untitled341_20230628010506.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT Dream",
+            "code": "`NDRJ_2`"
+        } 
+    ],
+    "NDJN_2": [
+        {
+            "name": "**✦✦ NCT Dream Jeno**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123299093532389536/Untitled341_20230627230426.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT Dream",
+            "code": "`NDJN_2`"
+        } 
+    ],
+    "NDHC_2": [
+        {
+            "name": "**✦✦ NCT Dream Haechan**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123299093930836069/Untitled341_20230628010709.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT Dream",
+            "code": "`NDHC_2`"
+        } 
+    ],
+    "NDJM_2": [
+        {
+            "name": "**✦✦ NCT Dream Jaemin**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123299094392221787/Untitled341_20230628010619.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT Dream",
+            "code": "`NDJM_2`"
+        } 
+    ],
+    "NDCL_2": [
+        {
+            "name": "**✦✦ NCT Dream Chenle**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123299094736162908/Untitled341_20230627234522.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT Dream",
+            "code": "`NDCL_2`"
+        }      
+    ],
+    "NDJS_2": [
+        {
+            "name": "**✦✦ NCT Dream Jisung**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123299095109435594/Untitled341_20230628010551.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT Dream",
+            "code": "`NDJS_2`"
+        }
+    ],
+    "NDMA_3": [
+        {
+            "name": "**✦✦✦ NCT Dream Mark**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123651294708650126/Untitled341_20230628235855.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT Dream",
+            "code": "`NDMA_3`"
+        }       
+    ],
+    "NDRJ_3": [
+        {
+            "name": "**✦✦✦ NCT Dream Renjun**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123651295153234003/Untitled341_20230629002253.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT Dream",
+            "code": "`NDRJ_3`"
+        }
+    ],
+    "NDJN_3": [
+        {
+            "name": "**✦✦✦ NCT Dream Jeno**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123651295677526147/Untitled341_20230629000553.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT Dream",
+            "code": "`NDJN_3`"
+        } 
+    ],
+    "NDHC_3": [
+        {
+            "name": "**✦✦✦ NCT Dream Haechan**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123651296143102126/Untitled341_20230629000800.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT Dream",
+            "code": "`NDHC_3`"
+        } 
+    ],
+    "NDJM_3": [
+        {
+            "name": "**✦✦✦ NCT Dream Jaemin**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123651296604467200/Untitled341_20230629002802.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT Dream",
+            "code": "`NDJM_3`"
+        }
+    ],
+    "NDCL_3": [
+        {
+            "name": "**✦✦✦ NCT Dream Chenle**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123651296948408420/Untitled341_20230629000229.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT Dream",
+            "code": "`NDCL_3`"
+        }
+    ],
+    "NDJS_3": [
+        {
+            "name": "**✦✦✦ NCT Dream Jisung**",
+            "image": "https://media.discordapp.net/attachments/1123241144986378290/1123651297422352444/Untitled341_20230629000021.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT Dream",
+            "code": "`NDJS_3`"
+        }          
         ]
                              }
-             
+                 
+        
     
 
             
